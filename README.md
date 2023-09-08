@@ -11,5 +11,3 @@ The program takes command line arguments to specify the number of barbers, the n
 
 The main challenge is to implement synchronization mechanisms to manage access to shared resources like waiting chairs and barber chairs, ensuring that customers and barbers coordinate correctly. The program uses pthreads for multithreading and requires careful management of threads, mutexes, and condition variables to achieve the desired behavior.
 
-
-
