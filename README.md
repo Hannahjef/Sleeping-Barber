@@ -1,7 +1,7 @@
 # Sleeping-Barber
 Extended Sleeping barber problem
 
-# Aim of the Problem
+## Aim of the Problem
 The problem uses concepts of synchronization and thread management to simulate the interactions in a barbershop. It aims to ensure that customers are assigned to available barbers, customers leave if there are no available chairs, and barbers sleep if there are no customers. The objective is to create a program that models this scenario and ensures correct interactions between customers and barbers in a multi-threaded environment.
 
 ## Overview
